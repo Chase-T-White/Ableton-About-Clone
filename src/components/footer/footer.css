@@ -1,0 +1,5 @@
+footer {
+  grid-column: 2 / span 10;
+
+  background-color: aquamarine;
+}

@@ -1,0 +1,22 @@
+.nav {
+  grid-column: span 12;
+}
+
+.nav ul {
+  display: flex;
+  gap: 2rem;
+
+  list-style: none;
+  padding: 2em;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.nav__main {
+  border-bottom: 0.2rem solid var(--clr-background);
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
